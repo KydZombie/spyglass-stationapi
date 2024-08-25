@@ -88,6 +88,9 @@ dependencies {
     modImplementation("net.glasslauncher:HowManyItems-Fabric-Unofficial:${project.howmanyitems_version}") {
         transitive false
     }
+//    modImplementation("maven.modrinth:unitweaks:${project.unitweaks_version}") {
+//        transitive false
+//    }
 }
 
 processResources {
